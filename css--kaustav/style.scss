@@ -30,8 +30,6 @@ $fs-20: 1.25rem;
 $fs-24: 1.5rem;
 $fs-22: 1.375rem;
 
-
-
 // Globals styles
 body {
   font-size: $fs-16;
@@ -47,11 +45,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'THICCCBOI';
+  font-family: "THICCCBOI";
   font-weight: 600;
 }
-
-
 
 ul {
   padding: 0;
@@ -88,7 +84,7 @@ iframe {
   color: var(--default-white);
 }
 .heading-secondary-font {
-  font-family: 'Hellix';
+  font-family: "Hellix";
 }
 
 .text-primary {
@@ -174,9 +170,8 @@ section.car-slider {
   }
 }
 
-
 // css by Ali on 10.04.2023
-footer{
+footer {
   .main-footer {
     background-size: cover;
   }

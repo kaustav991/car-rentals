@@ -1,5 +1,5 @@
 <footer>
-    <div class="main-footer" style="background-color: url(../img--ali/footer-bg.jpg) no-repeat;">
+    <div class="main-footer" style="background-color: url(../img--kaustav/footer-bg.jpg) no-repeat;">
         <div class="container">
 
         </div>
@@ -11,11 +11,11 @@
     </div>
 </footer>
 
-<script src="../js/bootstrap.min.js"></script>
-<script src="../js/jquery.min.js"></script>
-<script src="../js/jquery.slimNav_sk78.min.js"></script>
-<script src="../js/owl.carousel.js"></script>
-<script src="../js/script.js"></script>
+<script src="js--kaustav/bootstrap.min.js"></script>
+<script src="js--kaustav/jquery.min.js"></script>
+<script src="js--kaustav/jquery.slimNav_sk78.min.js"></script>
+<script src="js--kaustav/owl.carousel.js"></script>
+<script src="js--kaustav/script.js"></script>
 <script>
 $('.car-slide').owlCarousel({
     loop: true,
